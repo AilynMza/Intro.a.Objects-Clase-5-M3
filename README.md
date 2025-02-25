@@ -10,7 +10,7 @@ Este proyecto consiste en la implementación de un objeto en JavaScript para rep
 
 ## Enlace del GitHub Pages
 
-[GitHub Pages - Intro a Objects en JavaScript Clase 5](https://ailynmza.github.io/Funciones-Clase-4-M3/)
+[GitHub Pages - Intro a Objects en JavaScript Clase 5](https://ailynmza.github.io/Intro.a.Objects-Clase-5-M3/)
 
 ## Conclusión
 
